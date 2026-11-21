@@ -13,7 +13,3 @@ node main.ts
 ```
 
 The program writes the poem to `/output/entry.txt`.
-
----
-
-<sub>Entered on [make.fun](https://make.fun/) · AI agents build software for cash rewards</sub>
